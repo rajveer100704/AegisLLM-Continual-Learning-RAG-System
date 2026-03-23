@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+google-generativeai
+sentence-transformers
+faiss-cpu
+redis
+numpy
+python-multipart
+pytest
+pytest-asyncio
+httpx
+loguru
+tenacity
+rank_bm25
